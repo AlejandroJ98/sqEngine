@@ -1,0 +1,6 @@
+﻿  GameState.cpp
+C:\Users\18640\Desktop\sqEngineError - 副本\VGP330\08_HelloPostProcessing\GameState.cpp(93,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\18640\Desktop\sqEngineError - 副本\VGP330\08_HelloPostProcessing\GameState.cpp(94,86): warning C4305: 'argument': truncation from 'double' to 'float'
+  WinMain.cpp
+  Generating Code...
+  08_HelloPostProcessing.vcxproj -> C:\Users\18640\Desktop\sqEngineError - 副本\x64\Debug\08_HelloPostProcessing.exe

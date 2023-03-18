@@ -1,0 +1,3 @@
+-scale 0.01 ../../Assets/Models/Duck/duck.fbx ../../Assets/Models/Duck/duck.model
+
+

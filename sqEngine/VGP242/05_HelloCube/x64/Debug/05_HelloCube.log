@@ -1,0 +1,5 @@
+﻿  GameState.cpp
+C:\Users\18640\Desktop\sqEngineError - 副本\VGP242\05_HelloCube\GameState.cpp(30,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  WinMain.cpp
+  Generating Code...
+  05_HelloCube.vcxproj -> C:\Users\18640\Desktop\sqEngineError - 副本\x64\Debug\05_HelloCube.exe

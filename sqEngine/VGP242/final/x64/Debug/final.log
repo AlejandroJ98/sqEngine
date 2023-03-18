@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\users\18640\desktop\sqengineerror - 副本\x64\debug\final.exe' because it is being used by another process.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\users\18640\desktop\sqengineerror - 副本\x64\debug\final.pdb' because it is being used by another process.
+  GameState.cpp
+  WinMain.cpp
+  Generating Code...
+  final.vcxproj -> C:\Users\18640\Desktop\sqEngineError - 副本\x64\Debug\final.exe

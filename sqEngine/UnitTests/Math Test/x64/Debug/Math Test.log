@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Matrix4Test.cpp
+  QuaternionTest.cpp
+  Vector3Test.cpp
+  Generating Code...
+     Creating library C:\Users\18640\Desktop\sqEngineError - 副本\x64\Debug\Math Test.lib and object C:\Users\18640\Desktop\sqEngineError - 副本\x64\Debug\Math Test.exp
+  Math Test.vcxproj -> C:\Users\18640\Desktop\sqEngineError - 副本\x64\Debug\Math Test.dll

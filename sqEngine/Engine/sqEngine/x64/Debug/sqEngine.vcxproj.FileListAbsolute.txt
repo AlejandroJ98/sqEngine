@@ -1,0 +1,2 @@
+C:\Users\caish\Downloads\sqEngine\sqEngine\x64\Debug\sqEngine.pdb
+C:\Users\caish\Downloads\sqEngine\sqEngine\Engine\sqEngine\x64\Debug\sqEngine.pdb

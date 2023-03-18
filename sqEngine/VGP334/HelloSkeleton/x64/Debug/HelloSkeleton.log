@@ -1,0 +1,4 @@
+﻿  GameState.cpp
+C:\Users\18640\Desktop\sqEngine\Framework\Graphics\Inc\Model.h(11,2): warning C4099: 'sqEngine::Graphics::Model': type name first seen using 'class' now seen using 'struct'
+C:\Users\18640\Desktop\sqEngine\Framework\Graphics\Inc\Model.h(10,9): message : see declaration of 'sqEngine::Graphics::Model'
+  HelloSkeleton.vcxproj -> C:\Users\18640\Desktop\sqEngine\x64\Debug\HelloSkeleton.exe

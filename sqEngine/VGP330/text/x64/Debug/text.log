@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (text.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GameState.cpp
+C:\Users\18640\Desktop\sqEngineError - 副本\VGP330\text\GameState.cpp(49,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\18640\Desktop\sqEngineError - 副本\VGP330\text\GameState.cpp(50,85): warning C4305: 'argument': truncation from 'double' to 'float'
+  WinMain.cpp
+  Generating Code...
+  text.vcxproj -> C:\Users\18640\Desktop\sqEngineError - 副本\x64\Debug\test.exe
